@@ -1,6 +1,5 @@
-title: Architect theme
-description: Architect is a theme for GitHub Pages.
+title: Costimate - Your mate for costing
+description: Costimate - Building costingplus more, comong soon...
 show_downloads: true
 google_analytics:
-theme: jekyll-theme-architect
-
+theme: jekyll-theme-merlot
